@@ -3,6 +3,9 @@
  * SSL filter for XOOPS Cube Legacy
  *
  * @author  Makoto Hashiguchi a.k.a. gusagi<gusagi@gusagi.com>
+ * @link http://www.gusagi.com/
+ * @version 1.0
+ * @package xoops-preloads
  * @copyright 2009 Makoto Hashiguchi
  * @license http://www.opensource.org/licenses/bsd-license.php The BSD License
  */
